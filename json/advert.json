@@ -1,0 +1,72 @@
+{
+"items": [
+    {
+      "ads_top_homepage" : [
+      {
+        "link":"https://confirmsubscription.com/h/d/5106C196432BB23D",
+        "image": "images/ads/newsletter-sign-up.jpeg"
+      }
+      ],
+      "ads_bottom_homepage" : [
+      {
+        "link":"https://confirmsubscription.com/h/d/5106C196432BB23D",
+        "image": "images/ads/newsletter-sign-up.jpeg"
+      }
+      ],
+      "ads_sightsee_homepage" : [
+      {
+        "link":"http://www.mymotor.my/",
+        "image": "https://4.bp.blogspot.com/-t-CLoSDR0pg/WXS6aUsT5uI/AAAAAAACDvg/7HD3vxunDZQXKm7E8GkKrpbSiRZ5RdprQCLcBGAs/s1600/320x250_Eng.jpg"
+      }
+      ],
+      "ads_snapshot_homepage" : [
+      {
+        "link":"http://www.purplemonkey.com.my/",
+        "image": "https://dl.dropboxusercontent.com/s/3zmreoj17gyiry5/timeoutsidebar2016-01.png?dl=0"
+      }
+      ],
+      "ads_spotlight_homepage" : [
+      {
+        "link":"https://www.royce.com.my/",
+        "image": "../images/ads/Royce-Xmas-MPU.jpeg"
+      }
+      ],
+      "ads_top_article" : [
+      {
+        "link":"https://confirmsubscription.com/h/d/5106C196432BB23D",
+        "image": "../images/ads/newsletter-sign-up.jpeg"
+      }
+      ],
+      "ads_bottom_article" : [
+      {
+        "link":"https://confirmsubscription.com/h/d/5106C196432BB23D",
+        "image": "../images/ads/newsletter-sign-up.jpeg"
+      }
+      ],
+      "ads_side_article_1" : [
+      {
+        "link":"https://www.royce.com.my/",
+        "image": "../images/ads/Royce-Xmas-MPU.jpeg"
+      }
+      ],
+      "ads_side_article_2" : [
+      {
+        "link":"http://www.mymotor.my/",
+        "image": "https://4.bp.blogspot.com/-t-CLoSDR0pg/WXS6aUsT5uI/AAAAAAACDvg/7HD3vxunDZQXKm7E8GkKrpbSiRZ5RdprQCLcBGAs/s1600/320x250_Eng.jpg"
+      }
+      ],
+      "ads_side_article_3" : [
+      {
+        "link":"http://www.purplemonkey.com.my/",
+        "image": "https://dl.dropboxusercontent.com/s/3zmreoj17gyiry5/timeoutsidebar2016-01.png?dl=0"
+      }
+      ],
+      "ads_side_article_4" : [
+      {
+        "link":"#",
+        "image": "../images/ads/side_ad_placeholder.png"
+      }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+"items": [
+    {
+      "favourites_1" : [
+      {
+        "link":"favourites/favourite-beer-bars-in-the-klang-valley.html",
+        "image":"images/thumbnails/klangvalleymap.png",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite Beer Bars in the Klang Valley",
+        "section": "FAVOURITES"
+      }
+      ],
+      "favourites_2" : [
+      {
+        "link":"favourites/favourite-places-in-taman-desa.html",
+        "image": "images/thumbnails/tamandesamap.png",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite Places in Taman Desa",
+        "section": "FAVOURITES"
+      }
+      ],
+      "favourites_3" : [
+      {
+        "link":"favourites/favourite-restaurant-for-korean-fried-chicken.html",
+        "image": "images/thumbnails/klangvalleymap.png",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite Restaurant for Korean Fried Chicken",
+        "section": "FAVOURITES"
+      }
+      ],
+      "favourites_4" : [
+      {
+        "link":"favourites/favourite-places-in-pudu.html",
+        "image": "images/thumbnails/pudumap.png",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite Places in Pudu",
+        "section": "FAVOURITES"
+      }
+      ],
+      "favourites_5" : [
+      {
+        "link":"favourites/favourite-italian-restaurants-in-the-klang-valley.html",
+        "image": "images/thumbnails/klangvalleymap.png",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite Italian Restaurant in the Klang Valley",
+        "section": "FAVOURITES"
+      }
+      ],
+      "favourites_6" : [
+      {
+        "link":"favourites/favourite-places-in-kota=damansara.html",
+        "image": "images/thumbnails/kotadamansaramap.png",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite Places in Kota Damansara",
+        "section": "FAVOURITES"
+      }
+      ],
+      "favourites_7" : [
+      {
+        "link":"favourites/favourite-french-restaurants-in-the-klang-valley.html",
+        "image": "images/thumbnails/klangvalleymap.png",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite French Restaurant in the Klang Valley",
+        "section": "FAVOURITES"
+      }
+      ],
+      "favourites_8" : [
+      {
+        "link":"favourites/favourite-thai-restaurants-in-the-klang-valley.html",
+        "image": "images/thumbnails/klangvalleymap.png",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite Thai Restaurant in the Klang Valley",
+        "section": "FAVOURITES"
+      }
+      ],
+      "favourites_9" : [
+      {
+        "link":"favourites/favourite-places-for-banana-leaf-in-the-klang-valley.html",
+        "image": "images/thumbnails/klangvalleymap.png",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite Places for Banana Leaf in the Klang Valley",
+        "section": "FAVOURITES"
+      }
+      ],
+      "favourites_10" : [
+       {
+        "link":"favourites/favourite-latin-american-restaurants-in-the-klang-valley.html",
+        "image": "images/thumbnails/klangvalleymap.png",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite Latin American Restaurants in the Klang Valley",
+        "section": "FAVOURITES"
+      }
+      ]
+    }
+  ]
+}

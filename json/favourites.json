@@ -1,0 +1,106 @@
+{
+"items": [
+    {
+      "favourites_1" : [
+      {
+        "link":"favourites/favourite-beer-bars-in-the-klang-valley.html",
+        "image":"https://maps.googleapis.com/maps/api/staticmap?center=Petaling+Jaya&zoom=11&scale=1&size=600x395&maptype=roadmap&format=png&visual_refresh=true&key=AIzaSyCyqx5T-rZcShyExFSF4Hi2j--AGGU2wUQ",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite<br >Beer Bars <br > in the Klang Valley",
+        "section": "FAVOURITES"
+      }
+      ],
+      "favourites_2" : [
+      {
+        "link":"favourites/favourite-places-in-taman-desa.html",
+        "image": "https://maps.googleapis.com/maps/api/staticmap?center=Taman+Desa&zoom=14&scale=1&size=600x395&maptype=roadmap&format=png&visual_refresh=true&key=AIzaSyCyqx5T-rZcShyExFSF4Hi2j--AGGU2wUQ",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite<br >Places <br > in Taman Desa",
+        "section": "FAVOURITES"
+      }
+      ],
+      "favourites_3" : [
+      {
+        "link":"favourites/favourite-restaurants-for-korean-fried-chicken.html",
+        "image": "https://maps.googleapis.com/maps/api/staticmap?center=Petaling+Jaya&zoom=11&scale=1&size=600x395&maptype=roadmap&format=png&visual_refresh=true&key=AIzaSyCyqx5T-rZcShyExFSF4Hi2j--AGGU2wUQ",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite<br >Restaurants for <br > Korean Fried Chicken",
+        "section": "FAVOURITES"
+      }
+      ],
+      "favourites_4" : [
+      {
+        "link":"favourites/favourite-places-in-pudu.html",
+        "image": "https://maps.googleapis.com/maps/api/staticmap?center=Pudu&zoom=15&scale=1&size=600x395&maptype=roadmap&format=png&visual_refresh=true&key=AIzaSyCyqx5T-rZcShyExFSF4Hi2j--AGGU2wUQ",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite<br >Places <br > in Pudu",
+        "section": "FAVOURITES"
+      }
+      ],
+      "favourites_5" : [
+      {
+        "link":"favourites/favourite-italian-restaurants-in-the-klang-valley.html",
+        "image": "https://maps.googleapis.com/maps/api/staticmap?center=Petaling+Jaya&zoom=11&scale=1&size=600x395&maptype=roadmap&format=png&visual_refresh=true&key=AIzaSyCyqx5T-rZcShyExFSF4Hi2j--AGGU2wUQ",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite<br >Italian Restaurants <br > in the Klang Valley",
+        "section": "FAVOURITES"
+      }
+      ],
+      "favourites_6" : [
+      {
+        "link":"favourites/favourite-places-in-kota-damansara.html",
+        "image": "https://maps.googleapis.com/maps/api/staticmap?center=Kota+Damansara&zoom=15&scale=1&size=600x395&maptype=roadmap&format=png&visual_refresh=true&key=AIzaSyCyqx5T-rZcShyExFSF4Hi2j--AGGU2wUQ",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite<br >Places <br >in Kota Damansara",
+        "section": "FAVOURITES"
+      }
+      ],
+      "favourites_7" : [
+      {
+        "link":"favourites/favourite-french-restaurants-in-the-klang-valley.html",
+        "image": "https://maps.googleapis.com/maps/api/staticmap?center=Petaling+Jaya&zoom=11&scale=1&size=600x395&maptype=roadmap&format=png&visual_refresh=true&key=AIzaSyCyqx5T-rZcShyExFSF4Hi2j--AGGU2wUQ",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite<br >French Restaurants <br >in the Klang Valley",
+        "section": "FAVOURITES"
+      }
+      ],
+      "favourites_8" : [
+      {
+        "link":"favourites/favourite-thai-restaurants-in-the-klang-valley.html",
+        "image": "https://maps.googleapis.com/maps/api/staticmap?center=Petaling+Jaya&zoom=11&scale=1&size=600x395&maptype=roadmap&format=png&visual_refresh=true&key=AIzaSyCyqx5T-rZcShyExFSF4Hi2j--AGGU2wUQ",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite<br >Thai Restaurants <br >in the Klang Valley",
+        "section": "FAVOURITES"
+      }
+      ],
+      "favourites_9" : [
+      {
+        "link":"favourites/favourite-places-for-banana-leaf-in-the-klang-valley.html",
+        "image": "https://maps.googleapis.com/maps/api/staticmap?center=Petaling+Jaya&zoom=11&scale=1&size=600x395&maptype=roadmap&format=png&visual_refresh=true&key=AIzaSyCyqx5T-rZcShyExFSF4Hi2j--AGGU2wUQ",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite<br >Places for <br > Banana Leaf <br >in the Klang Valley",
+        "section": "FAVOURITES"
+      }
+      ],
+      "favourites_10" : [
+       {
+        "link":"favourites/favourite-latin-american-restaurants-in-the-klang-valley.html",
+        "image": "https://maps.googleapis.com/maps/api/staticmap?center=Petaling+Jaya&zoom=11&scale=1&size=600x395&maptype=roadmap&format=png&visual_refresh=true&key=AIzaSyCyqx5T-rZcShyExFSF4Hi2j--AGGU2wUQ",
+        "image_width" : "400",
+        "image_height": "275",
+        "name": "Favourite<br >Latin American Restaurants <br >in the Klang Valley",
+        "section": "FAVOURITES"
+      }
+      ]
+    }
+  ]
+}

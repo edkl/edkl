@@ -1,0 +1,39 @@
+{
+"items": [
+    {
+      "guides_1" : [
+      {
+        "link":"guides/favourite-latin-american-restaurants-in-KL-and-selangor.html",
+        "image": "https://4.bp.blogspot.com/-y5Csp9n4vmQ/WS_m1tcbpPI/AAAAAAACAMw/oDSGtJLEoC4zF_LlwctOmzjyJDKAkf79wCLcB/s1600/L1020502-001.jpg",
+        "image_width" : "1600",
+        "image_height": "1066",
+        "name": "EDKL's Favourite Latin American Restaurants in Klang Valley",
+        "section": "GUIDE",
+        "description": ""
+      }
+      ],
+      "guides_2" : [
+      {
+        "link":"guides/favourite-beer-bars-in-KL-and-selangor.html",
+        "image": "http://4.bp.blogspot.com/-qZI-XVuubJc/Tv6M2PCnFFI/AAAAAAAAbig/EpJqi31UljU/s400/IMG_1228.JPG",
+        "image_width" : "1600",
+        "image_height": "1066",
+        "name": "EDKL's Favourite Beer Bars in Klang Valley",
+        "section": "GUIDE",
+        "description": ""
+      }
+      ],
+      "guides_3" : [
+      {
+       "link":"guides/favourite-spots-in-Pudu.html",
+        "image": "https://3.bp.blogspot.com/-4FR9Quw_GbQ/WEQKSKxYMeI/AAAAAAABtTo/Wn3K5BF_40E5EBvRRcdl7cy9wpSxbwggACLcB/s1600/DSCF4550-001.jpg",
+        "image_width" : "1600",
+        "image_height": "1066",
+        "name": "EDKL's Favourite Spots in Pudu",
+        "section": "GUIDE",
+        "description": ""
+      }
+      ]
+    }
+  ]
+}
